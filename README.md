@@ -1,2 +1,2 @@
 # tribFrankl
-freecodecamp {tribute challenge}
+# freecodecamp {tribute challenge}
