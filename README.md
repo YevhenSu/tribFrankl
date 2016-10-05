@@ -97,7 +97,7 @@ to an external website with further information on the topic.
 </body>
   **************************************************************************************************************************
   
-  css code
+ 2) css code /full code progress on http://codepen.io/YevhenSusidka/pen/amVoWE/
   
   .wrap{
   background-color: #E7E7DE;
@@ -142,7 +142,7 @@ blockquote{
 
 ********************************************************************************************************************
 
-javaScript /for learning use, else do it in css: span{font-weight: bold;}/
+3) javaScript /for learning use, else do it in css: span{font-weight: bold;}/ /full code progress on http://codepen.io/YevhenSusidka/pen/amVoWE/
 
 $(document).ready(function() {
     $("span").css("font-weight","bold");
