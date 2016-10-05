@@ -1,10 +1,3 @@
-<body>
-  <div class="wrap">
-    <div class="header">
-      <h1>Viktor Frankl</h1>
-    </div>
-    <div class="left-aside">Left-aside</div>
-    <div class="main">Main</div>
-    <div class="footer">Footer</div>      
-  </div>
-</body>
+A tribute page with an image and text
+with click on a link that will take me 
+to an external website with further information on the topic.
